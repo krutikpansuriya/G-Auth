@@ -26,11 +26,5 @@ Save the file and run [auth.py](https://github.com/auth.py)
 ```sh
 python auth.py
 ```
-
-
-## License
-
-MIT
-
 **Free Software, Hell Yeah!**
 
