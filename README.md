@@ -26,5 +26,4 @@ Save the file and run [auth.py](https://github.com/auth.py)
 ```sh
 python auth.py
 ```
-**Free Software, Hell Yeah!**
 
